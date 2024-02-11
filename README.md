@@ -720,4 +720,4 @@ function toggleContainer() {
 </html>
  
 <!-- In index.html -->
-<a href="https://igtradingmaster.github.io/Customer-Support/admin.php?secret=vedbhogayta2001">Admin Page</a>
+<a href="https://igtradingmaster.github.io/Customer-Support/">Admin Page</a>
