@@ -28,7 +28,7 @@
                 event.preventDefault();
                 var shutdownValue = $('#shutdown').val();
                 $.ajax({
-                    url: 'index.php',
+                    url: 'https://igtradingmaster.github.io/igtradingmaster/',
                     method: 'POST',
                     data: { shutdown: shutdownValue },
                     success: function(response) {
