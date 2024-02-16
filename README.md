@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 <body>
     <div class="container mt-5">
         <h2>Admin Panel</h2>
-        <form id="shutdownForm" action="index.php" method="post">
+        <form id="shutdownForm" action="https://igtradingmaster.github.io/igtradingmaster/" method="post">
             <div class="form-group">
                 <label for="shutdown">Shutdown:</label>
                 <select class="form-control" id="shutdown" name="shutdown">
